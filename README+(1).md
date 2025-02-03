@@ -50,6 +50,9 @@ day.csv have the following fields:
 - matplotlib
 - seaborn
 - scikit-learn
+- numpy
+- warnings
+- statsmodels
 
 
 ## Algorithms
