@@ -51,7 +51,13 @@ day.csv have the following fields:
 - seaborn
 - scikit-learn
 - numpy
+<<<<<<< HEAD
 - statsmodels
+=======
+- warnings
+- statsmodels
+
+>>>>>>> origin/main
 
 ## Algorithms
 - Linear Regression
